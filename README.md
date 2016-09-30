@@ -2,7 +2,7 @@
 
 Esta versión del script original de **Rinck Sonnenberg (Netson)** ha sido adaptada para facilitar su uso en entornos de laboratorio y comprensión de aprendizaje. Esta versión corrige algunos problemas de incompatibilida en el archivo 'seed' referentes a la versión de Ubuntu 16.04.1 Server. También se modifica el archivo 'isolinux' con el fin de solventar el fallo de espera de entrada en la selección de lenguaje.
 
-Adaptación realizada por *Luis Ignacio Díaz Martínez (luigdima)**
+Adaptación realizada por **Luis Ignacio Díaz Martínez (luigdima)**
 
 Original code by: **Rinck Sonnenberg (Netson)**
 
